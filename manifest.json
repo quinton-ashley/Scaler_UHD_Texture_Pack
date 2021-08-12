@@ -1,0 +1,9 @@
+{
+	"name": "Scaler UHD",
+	"id": "scaler-uhd",
+	"version": "1.0.1",
+	"authors": ["qashto"],
+	"website": "https://github.com/quinton-ashley/Scaler_UHD_Texture_Pack",
+	"description": "Small texture pack containing upscales and retextures for Scaler.",
+	"compressed": true
+}
